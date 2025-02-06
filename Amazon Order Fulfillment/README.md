@@ -6,7 +6,6 @@ Here's a technical README.md file for your GitHub project:
 A Business Process Model and Notation (BPMN) 2.0 diagram modeling Amazon Canada's order fulfillment process, covering both Fulfilled-by-Amazon (FBA) and Fulfilled-by-Merchant (FBM) workflows. Created using Microsoft Visio.
 
 ## Key Features
-- **Compliant with assignment requirements**:
   - 3 Pools: Customer, Amazon, Merchant
   - 4 Swimlanes across pools
   - Dual process flows (FBA & FBM)
