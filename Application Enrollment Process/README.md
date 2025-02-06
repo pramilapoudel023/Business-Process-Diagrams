@@ -30,7 +30,8 @@ The University of Nanaimo's application process involves several key stages:
 
 1. **Case-Study-III.pdf**: Detailed description of the University of Nanaimo's application process.
 2. **Process-Model.pdf**: Visual representation of the application process flow.
-3. **README.md**: This file, providing an overview of the repository and process.
+3. **Admission-Process.vsdx**: Visio file for the application process flow.
+4. **README.md**: This file, providing an overview of the repository and process.
 
 ## Process Model
 
