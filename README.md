@@ -1,5 +1,7 @@
 # Business Process Diagrams
 
+[Pramila Poudel](linkedin.com/in/pramila-poudel-6374b9120)
+
 This repository contains Business Process Model and Notation (BPMN) diagrams for two distinct processes:
 
 1. University of Nanaimo Application Enrollment Process
