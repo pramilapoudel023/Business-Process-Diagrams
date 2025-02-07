@@ -18,14 +18,14 @@ If at any point in the process, you are not sure of the step then please assume 
 question is to check your understanding of BPMN diagramming and not to verify the real
 fulfillment process.
 
-## Conditions for the Project
+### Conditions for the Project
 The following conditions must be met:
-a. Show at least 3 different pools. For example, Customer, Amazon, Merchant, etc.
-b. Show at least 4 different swim lanes (in total, not individually in a pool).
-c. Show both the processes – FBA and FBM.
-d. Show at least 20 different flow objects – Activity/Task, Gateway, and Event are
+a. **Show at least 3 different pools. For example, Customer, Amazon, Merchant, etc.
+b. **Show at least 4 different swim lanes (in total, not individually in a pool).
+c. **Show both the processes – FBA and FBM.
+d. **Show at least 20 different flow objects – Activity/Task, Gateway, and Event are
 considered as flow objects.
-e. Show at least 3 different types of Gateways and at least 3 different types of Activity/Task.
+e. **Show at least 3 different types of Gateways and at least 3 different types of Activity/Task.
 
 ## Project Description
 A Business Process Model and Notation (BPMN) 2.0 diagram modeling Amazon Canada's order fulfillment process, covering both Fulfilled-by-Amazon (FBA) and Fulfilled-by-Merchant (FBM) workflows. Created using Microsoft Visio.
