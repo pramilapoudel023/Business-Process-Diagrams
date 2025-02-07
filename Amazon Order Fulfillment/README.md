@@ -72,7 +72,7 @@ Process Diagram Preview
    - BPMN 2.0 stencil
 
 2. **Open in Visio**:
-   - Launch `AmazonFulfillmentProcess.vsdx`
+   - Launch `AmazonOrderFulfillmentProcessDiagram.vsdx`
    - Enable BPMN 2.0 validation
 
 ## Assumptions Made
