@@ -44,15 +44,15 @@ The University of Nanaimo Enrollment Process Diagram showcases:
 7. **Final Confirmation:** Enrollment is finalized.
 
  key process steps include:
-1. **Student submits application
-2. **Parallel approvals (Academic Review and Policy Compliance)
-3. **Admissions Department validation
-4. **Simultaneous reviews (Registrar's Office and Financial Aid Office)
-5. **Faculty advisor assignment
-6. **Acceptance letter generation
-7. **Enrollment confirmation
-8. **Tuition payment processing
-9. **Final enrollment confirmation
+1. Student submits application
+2. Parallel approvals (Academic Review and Policy Compliance)
+3. Admissions Department validation
+4. Simultaneous reviews (Registrar's Office and Financial Aid Office)
+5. Faculty advisor assignment
+6. Acceptance letter generation
+7. Enrollment confirmation
+8. Tuition payment processing
+9. Final enrollment confirmation
 
 ## Tools Used
 
