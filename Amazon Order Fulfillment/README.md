@@ -1,5 +1,3 @@
-Here's a technical README.md file for your GitHub project:
-
 # Amazon Order Fulfillment BPMN Diagram
 
 ## Requirements
